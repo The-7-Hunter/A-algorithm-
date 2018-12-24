@@ -33,3 +33,11 @@ Straight line from each node to College of Computer:
 - Medicine 930
 - Conference 445
 - Computer 0
+
+## Required Files
+
+- addons and packages are folders contains built in functions for P5.
+
+- Astar.js contains the algorithm which will be excuted when button is clicked 
+
+- sketch.js contains the actual functions for drawing shapes and lines
