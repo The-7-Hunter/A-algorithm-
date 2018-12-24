@@ -36,7 +36,7 @@ Straight line from each node to College of Computer:
 
 ## Required Files
 
-- addons and packages are folders contains built in functions for P5.
+- addons folder along with P5, P5.min.js, P5.pre-min.js are folders and files containing built in functions for P5.
 
 - Astar.js contains the algorithm which will be excuted when button is clicked 
 
